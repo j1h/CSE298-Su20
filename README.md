@@ -3,6 +3,7 @@ Foundations of Robotics
 
 ## Readings
 
+- Week 2 - Chapters 5, 6, 7 - [Book](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.2/book.pdf)
 - Week 1 - Chapter 1, 2, Appendices A and B  - [Book](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.2/book.pdf)
 
 ## Homework
