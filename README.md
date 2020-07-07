@@ -12,4 +12,4 @@ Foundations of Robotics
 
 ## Lectures
 
-- Lecture 1 - [Perception](https://youtu.be/dLsOutDHlF4)
+- Lecture 1 - [Perception](https://youtu.be/dLsOutDHlF4) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%201.pptx?raw=true)
