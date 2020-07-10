@@ -8,8 +8,9 @@ Foundations of Robotics
 
 ## Homework
 
-- Homework 1 - [Link](https://classroom.github.com/a/oJjXxiBm)
+- [ ] Homework 1 - [Link](https://classroom.github.com/a/oJjXxiBm)
 
 ## Lectures
 
+- Lecture 2 - Sensors [Video](https://youtu.be/09RD2dNwQew) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%202.pptx?raw=true)
 - Lecture 1 - Perception [Video](https://youtu.be/dLsOutDHlF4) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%201.pptx?raw=true)
