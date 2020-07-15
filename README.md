@@ -1,5 +1,4 @@
-# CSE298-Su20
-Foundations of Robotics
+# CSE298-Su20 - Foundations of Robotics
 
 ## Readings
 
