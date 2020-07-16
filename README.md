@@ -17,7 +17,8 @@
 
 ## Lectures
 
-- Lecture 4 - EKF - [Video](https://youtu.be/i5kBVv4DB38)
-- Lecture 3 - RANSAC - [Video](https://youtu.be/AxSHyQ_APxc)
+- Lecture 5 - Particle Filter - [Video](https://youtu.be/IVbylUHI0oU) - [Slides](https://github.com/LehighCSE/CSE298-Su20/raw/master/Lecture%205%20-%20Particle%20Filter.pptx]
+- Lecture 4 - EKF - [Video](https://youtu.be/i5kBVv4DB38) - [Slides](https://github.com/LehighCSE/CSE298-Su20/raw/master/Lecture%204%20-%20EKF.pptx)
+- Lecture 3 - RANSAC - [Video](https://youtu.be/AxSHyQ_APxc) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%203%20-%20RANSAC%20and%20SLAM.pptx)
 - Lecture 2 - Sensors - [Video](https://youtu.be/09RD2dNwQew) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%202.pptx?raw=true)
 - Lecture 1 - Perception - [Video](https://youtu.be/dLsOutDHlF4) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%201.pptx?raw=true)
