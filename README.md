@@ -17,6 +17,7 @@
 
 ## Lectures
 
-- Lecture 3 - Kalman Filter - [Video](https://youtu.be/AxSHyQ_APxc)
+- Lecture 4 - EKF - [Video](https://youtu.be/i5kBVv4DB38)
+- Lecture 3 - RANSAC - [Video](https://youtu.be/AxSHyQ_APxc)
 - Lecture 2 - Sensors - [Video](https://youtu.be/09RD2dNwQew) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%202.pptx?raw=true)
 - Lecture 1 - Perception - [Video](https://youtu.be/dLsOutDHlF4) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%201.pptx?raw=true)
