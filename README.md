@@ -14,7 +14,7 @@
 ## Quizzes
 
 - [ ] Quiz 2 - Due 7/20 - [Link](https://classroom.github.com/a/rbCbSZKL)
-- [x] Quiz 1 - Due 7/13 - [Link](https://classroom.github.com/a/stzYrb2X)
+- [x] Quiz 1 - Due 7/13 - [Link](https://classroom.github.com/a/stzYrb2X) - [Solution](https://github.com/cmontella/cse298-quiz1/blob/solution/README.md)
 
 ## Lectures
 
