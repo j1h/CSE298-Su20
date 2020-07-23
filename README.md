@@ -2,6 +2,7 @@
 
 ## Readings
 
+- Week 4 - Chapters 4 - [Book](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.2/book.pdf), [FastSlam](http://robots.stanford.edu/papers/montemerlo.fastslam-tr.pdf)
 - Week 3 - Chapters 9, 12 - [Book](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.2/book.pdf)
 - Week 2 - Chapters 5, 6, 7 - [Book](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.2/book.pdf)
 - Week 1 - Chapter 1, 2, Appendices A and B  - [Book](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.2/book.pdf)
