@@ -9,16 +9,19 @@
 
 ## Homework
 
-- [ ] Homework 2 - Due 7/22 - [Link](https://classroom.github.com/a/qjcm331i)
+- [ ] Homework 3 - Due 7/30 - [Link](https://classroom.github.com/a/ClReQNcm)
+- [x] Homework 2 - Due 7/22 - [Link](https://classroom.github.com/a/qjcm331i)
 - [x] Homework 1 - Due 7/14 - [Link](https://classroom.github.com/a/oJjXxiBm)
 
 ## Quizzes
 
-- [ ] Quiz 2 - Due 7/20 - [Link](https://classroom.github.com/a/rbCbSZKL)
+- [x] Quiz 2 - Due 7/20 - [Link](https://classroom.github.com/a/rbCbSZKL)
 - [x] Quiz 1 - Due 7/13 - [Link](https://classroom.github.com/a/stzYrb2X) - [Solution](https://github.com/cmontella/cse298-quiz1/blob/solution/README.md)
 
 ## Lectures
 
+- Lecture 7 - Feedback Control - [Video](https://youtu.be/AZC8E7uUuac) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%207%20-%20Feedback%20Control.pptx)
+- Lecture 6 - FastSLAM - [Video](https://youtu.be/tDftJ65MuWo) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%206%20-%20FastSLAM.pptx)
 - Lecture 5 - Particle Filter - [Video](https://youtu.be/IVbylUHI0oU) - [Slides](https://github.com/LehighCSE/CSE298-Su20/raw/master/Lecture%205%20-%20Particle%20Filter.pptx)
 - Lecture 4 - EKF - [Video](https://youtu.be/i5kBVv4DB38) - [Slides](https://github.com/LehighCSE/CSE298-Su20/raw/master/Lecture%204%20-%20EKF.pptx)
 - Lecture 3 - RANSAC - [Video](https://youtu.be/AxSHyQ_APxc) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%203%20-%20RANSAC%20and%20SLAM.pptx)
