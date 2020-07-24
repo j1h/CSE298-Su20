@@ -9,7 +9,7 @@
 
 ## Homework
 
-- [ ] Homework 3 - Due 7/30 - [Link](https://classroom.github.com/a/ClReQNcm)
+- [ ] Homework 3 - Due 7/30 - [Link](https://classroom.github.com/a/gE1UDyOa)
 - [x] Homework 2 - Due 7/22 - [Link](https://classroom.github.com/a/qjcm331i)
 - [x] Homework 1 - Due 7/14 - [Link](https://classroom.github.com/a/oJjXxiBm)
 
