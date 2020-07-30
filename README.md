@@ -2,6 +2,7 @@
 
 ## Readings
 
+- Week 5 - [Trajectory Rollout](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.330.2120&rep=rep1&type=pdf)
 - Week 4 - Chapters 4 - [Book](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.2/book.pdf), [FastSlam](http://robots.stanford.edu/papers/montemerlo.fastslam-tr.pdf)
 - Week 3 - Chapters 9, 12 - [Book](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.2/book.pdf)
 - Week 2 - Chapters 5, 6, 7 - [Book](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.2/book.pdf)
