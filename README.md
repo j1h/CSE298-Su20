@@ -10,13 +10,14 @@
 
 ## Homework
 
-- [ ] Homework 3 - Due 7/30 - [Link](https://classroom.github.com/a/gE1UDyOa)
+- [ ] Homework 4 - Due 8/06 - [Link](https://classroom.github.com/a/1gKArLp6)
+- [x] Homework 3 - Due 7/30 - [Link](https://classroom.github.com/a/gE1UDyOa)
 - [x] Homework 2 - Due 7/22 - [Link](https://classroom.github.com/a/qjcm331i) - [Solution](https://github.com/liulinbo/slam/blob/master/Probabilistic%20Robotics%20_Sebastian%20Thrun%20et%20al..pdf) (Sec. 7.4.3)
 - [x] Homework 1 - Due 7/14 - [Link](https://classroom.github.com/a/oJjXxiBm)
 
 ## Quizzes
 
-- [ ] Quiz 3 - Due 7/27 - [Link](https://classroom.github.com/a/wgFzUTX3)
+- [x] Quiz 3 - Due 7/27 - [Link](https://classroom.github.com/a/wgFzUTX3)
 - [x] Quiz 2 - Due 7/20 - [Link](https://classroom.github.com/a/rbCbSZKL)
 - [x] Quiz 1 - Due 7/13 - [Link](https://classroom.github.com/a/stzYrb2X) - [Solution](https://github.com/cmontella/cse298-quiz1/blob/solution/README.md)
 
