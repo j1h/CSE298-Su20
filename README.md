@@ -2,6 +2,7 @@
 
 ## Readings
 
+- Week 6 - [Q-Learning](http://www.cs.rhul.ac.uk/~chrisw/new_thesis.pdf)
 - Week 5 - [Trajectory Rollout](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.330.2120&rep=rep1&type=pdf), [A*](https://www.cs.auckland.ac.nz/courses/compsci709s2c/resources/Mike.d/astarNilsson.pdf)
 - Week 4 - Chapters 4 - [Book](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.2/book.pdf), [FastSlam](http://robots.stanford.edu/papers/montemerlo.fastslam-tr.pdf)
 - Week 3 - Chapters 9, 12 - [Book](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.2/book.pdf)
