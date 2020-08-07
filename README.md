@@ -25,6 +25,9 @@
 
 ## Lectures
 
+- Lecture 10 - Reinforcement Learning - [Video](https://youtu.be/Cc1IP37R090) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%210%20-%20Reinforcement%20Learning.pptx)
+- Lecture 9 - A* - [Video](https://youtu.be/WSr2glTIttQ) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%209%20-%20A*.pptx)
+- Lecture 8 - Trajectory Rollout - [Video](https://youtu.be/buEfiJftc0E) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%208%20-%20Trajectory%20Rollout.pptx)
 - Lecture 7 - Feedback Control - [Video](https://youtu.be/AZC8E7uUuac) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%207%20-%20Feedback%20Control.pptx)
 - Lecture 6 - FastSLAM - [Video](https://youtu.be/tDftJ65MuWo) - [Slides](https://github.com/LehighCSE/CSE298-Su20/blob/master/Lecture%206%20-%20FastSLAM.pptx)
 - Lecture 5 - Particle Filter - [Video](https://youtu.be/IVbylUHI0oU) - [Slides](https://github.com/LehighCSE/CSE298-Su20/raw/master/Lecture%205%20-%20Particle%20Filter.pptx)
